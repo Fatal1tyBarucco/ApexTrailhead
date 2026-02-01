@@ -19,7 +19,7 @@
     "@lwc/eslint-plugin-lwc": "^1.8.2",
     "@prettier/plugin-xml": "^3.4.1",
     "@salesforce/eslint-config-lwc": "^3.6.0",
-    "@salesforce/eslint-plugin-aura": "^2.1.0",
+    "@salesforce/eslint-plugin-aura": "^3.0.0",
     "@salesforce/eslint-plugin-lightning": "^2.0.0",
     "@salesforce/sfdx-lwc-jest": "^7.0.1",
     "eslint": "^9.27.0",
@@ -27,7 +27,7 @@
     "eslint-plugin-jest": "^28.11.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.0.0",
-    "prettier": "^4.0.0-alpha.10",
+    "prettier": "^4.0.0-alpha.12",
     "prettier-plugin-apex": "^2.2.2"
   },
   "lint-staged": {
