@@ -20,15 +20,15 @@
     "@prettier/plugin-xml": "^3.4.1",
     "@salesforce/eslint-config-lwc": "^3.6.0",
     "@salesforce/eslint-plugin-aura": "^2.1.0",
-    "@salesforce/eslint-plugin-lightning": "^1.0.0",
-    "@salesforce/sfdx-lwc-jest": "^5.1.0",
-    "eslint": "^9.9.0",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-jest": "^28.8.0",
-    "husky": "^9.1.5",
-    "lint-staged": "^15.2.9",
-    "prettier": "^4.0.0-alpha.9",
-    "prettier-plugin-apex": "^2.1.4"
+    "@salesforce/eslint-plugin-lightning": "^2.0.0",
+    "@salesforce/sfdx-lwc-jest": "^7.0.1",
+    "eslint": "^9.27.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-jest": "^28.11.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.0.0",
+    "prettier": "^4.0.0-alpha.10",
+    "prettier-plugin-apex": "^2.2.2"
   },
   "lint-staged": {
     "**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}": [
